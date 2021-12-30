@@ -1,0 +1,23 @@
+{
+    "products": {
+        "ludi": [
+            {
+                "name": "rebionok",
+                "model": "plohoi rebionok",
+                "price": "200",
+                "currency": "RUB",
+                "desc": "ya ykral etogo rebionka",
+                "link": "https://www.rusdialog.ru/images/news/main_video_widget/ec2f60f41d63a538e43b10c128594594.jpg"
+            },
+            {
+                "name": "chelovek",
+                "model": "negroid",
+                "price": "500",
+                "currency": "RUB", 
+                "desc": "ya viigral ego v karti vchera, znaet komandi Legat i spat",
+                "link": "https://www.meme-arsenal.com/memes/995e01117f7352f483cd85b9eaa138a8.jpg"
+            }
+        ]
+       
+    }
+}
